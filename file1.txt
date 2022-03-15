@@ -1,1 +1,1 @@
-This is file for passwords login.
+This is file for passwords login for user.
